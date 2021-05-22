@@ -79,16 +79,15 @@ def consult_IP():
     
         
 def consult_ifo():
-import os
-print('\033[01;33mInformações do script')
-print('\033[01;31m>>>>©copyright2021<<<<')
-print('\033[01;34mCriado Do Script:')
-print('\033[01;32m---STR1K3RS0FT---')
-print('\033[01;34mObgd por ajuda na Script')
-print('\033[01;31m>>>@Dreifus-404/@MyDickXD<<<')
-print('\033[01;36mScript feita para consultas!! obgd pela ajuda @Dreifus-404/@MyDickXd tmj')
-print('\033[01;37mYT:Dreifus-404/YT:STR1KER S0FT')    
-print('\033[01;32mT34M d@rkpr0j3ct.py')  
+        print('\033[01;33mInformações do script')
+        print('\033[01;31m>>>>©copyright2021<<<<')
+        print('\033[01;34mCriado Do Script:')
+        print('\033[01;32m---STR1K3RS0FT---')
+        print('\033[01;34mObgd por ajuda na Script')
+        print('\033[01;31m>>>@Dreifus-404/@MyDickXD<<<')
+        print('\033[01;36mScript feita para consultas!! obgd pela ajuda @Dreifus-404/@MyDickXd tmj')
+        print('\033[01;37mYT:Dreifus-404/YT:STR1KER S0FT')    
+        print('\033[01;32mT34M d@rkpr0j3ct.py')  
 	
 	return False
 
